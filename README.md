@@ -26,9 +26,11 @@ Who rents the properties?
 How much does the average property go for per month?
 
 Conceptual Model
+
 ![image](https://user-images.githubusercontent.com/113401627/216460018-f2318b59-776a-4fbd-8247-d4857c2869a5.png)
 
 Logical Model 2.0
+
 ![image](https://user-images.githubusercontent.com/113401627/216460079-754be481-24ed-43f7-8937-0a2949cce923.png)
 
 Answering Data Questions
@@ -38,21 +40,26 @@ Who are the people buying properties to rent out?
     Answered in implementation section
 
 Who rents the properties?
+
 ![image](https://user-images.githubusercontent.com/113401627/216460252-ab044ea0-9aca-443d-a762-d12f9b5c690a.png)
 
 How much does the average property go for per month?
+
 ![image](https://user-images.githubusercontent.com/113401627/216460306-068aaafa-ee1b-4f40-80e1-e5dab04af3a0.png)
 With the average stay at an AirBnb being about 21 days out of the month, we can calculate that the 6th st. property would average $2,625/month while the Highaldn Stone property would average $5,355
 
 Implementation
 
 This is a Property Form for owners to help set their rental up for Airbnb created through Microsoft Access.
+
 ![image](https://user-images.githubusercontent.com/113401627/216460403-4920d891-bdcf-4534-8efb-3de1780ab9c9.png)
 
-This Renter Form shows who is renting, their stay ID (confirmation #), rental ID (helps find the property) and also their stay time. 
+This Renter Form shows who is renting, their stay ID (confirmation #), rental ID (helps find the property) and also their stay time.
+
 ![image](https://user-images.githubusercontent.com/113401627/216460470-9f65cf51-7cd3-4090-ab5b-066535559512.png)
 
 The following is an Owner Form that also answers the first business question.
+
 ![image](https://user-images.githubusercontent.com/113401627/216460522-9c60c09b-5fce-4767-aa50-e38de53bac44.png)
 
 
